@@ -1,7 +1,7 @@
   ````bash
   > help --info
   > security engineer focused on ai security, ai safety, and robust ml infrastructure.
-  > interested in ML systems, secure infrastructure, and solving hard problems in open source.
+  > interested in ml systems, secure infrastructure, and solving hard problems in open source.
   > former computer science student at emory university.
   > see more at https://0x3df.com
   ````
