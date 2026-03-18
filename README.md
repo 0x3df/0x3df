@@ -1,9 +1,9 @@
   ````bash
   > help --info
-  > A security engineer focused on AI security, AI safety, and robust ML infrastructure.
-  > Likes solving problems on open source.
-  > Undergrad@Emory batch of 2023--studied computer science.
-  > See more at https://0x3df.com
+  > security engineer focused on ai security, ai safety, and robust ml infrastructure.
+  > interested in ML systems, secure infrastructure, and solving hard problems in open source.
+  > former computer science student at emory university.
+  > see more at https://0x3df.com
   ````
 
   ````bash
