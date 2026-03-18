@@ -12,5 +12,6 @@
   > linkedin: lanepoole
   > github: 0x3df
   > twitter: 0x3df
+  > huggingface: 0x3df
   > mailto: lane@calibrator.ai
   ````
