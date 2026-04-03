@@ -1,8 +1,8 @@
   ````bash
   > help --info
-  > security engineer focused on ai security, ai safety, and robust ml infrastructure.
+  > low level programmer focused on computer graphics, game dev, and operating systems.
   > currently trying to solve hard problems in open source.
-  > former computer science student at emory university.
+  > computer science student at emory university.
   > see more at https://0x3df.com
   ````
 
