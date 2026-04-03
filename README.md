@@ -10,7 +10,6 @@
   > help --contact
   > website: 0x3df.com
   > linkedin: lanepoole
-  > github: 0x3df
   > twitter: 0x3df
   > mailto: lane@calibrator.ai
   ````
