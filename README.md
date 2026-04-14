@@ -1,6 +1,6 @@
   ````bash
   > help --info
-  > low level programmer focused on computer graphics, game dev, and operating systems.
+  > low level programmer focused on computer graphics and game dev.
   > currently trying to solve hard problems in open source.
   > computer science student at emory university.
   > see more at https://0x3df.com
