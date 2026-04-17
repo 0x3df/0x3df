@@ -1,7 +1,7 @@
   ````bash
   > help --info
   > programmer focused on computer graphics and game dev.
-  > currently trying to solve hard problems in open source.
+  > currently trying to build 2D games.
   > computer science student at emory university.
   > see more at https://0x3df.com
   ````
