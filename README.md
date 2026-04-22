@@ -14,6 +14,6 @@
   > myanimelist: 0x3df
   > letterboxd: 0x3df
   > backloggd: 0x3df
-  > youtube: [@0x3dff](https://www.youtube.com/@0x3dff)
+  > youtube: @0x3dff
   > 
   ````
