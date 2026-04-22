@@ -15,4 +15,5 @@
   > letterboxd: 0x3df
   > backloggd: 0x3df
   > youtube: @0x3dff
+  > storygraph: 0x3df
   ````
