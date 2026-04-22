@@ -11,4 +11,9 @@
   > website: 0x3df.com
   > twitter: 0x3df
   > mailto: 0x3df@proton.me
+  > myanimelist: 0x3df
+  > letterboxd: 0x3df
+  > backloggd: 0x3df
+  > youtube: [@0x3dff](https://www.youtube.com/@0x3dff)
+  > 
   ````
