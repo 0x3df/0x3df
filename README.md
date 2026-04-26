@@ -3,17 +3,9 @@
   > programmer focused on computer graphics and game dev.
   > currently building 2D games.
   > former computer science student at t20 uni
-  > see more at https://0x3df.com
   ````
 
   ````bash
   > help --contact
-  > website: 0x3df.com
-  > twitter: 0x3df
   > mailto: 0x3df@proton.me
-  > myanimelist: 0x3df
-  > letterboxd: 0x3df
-  > backloggd: 0x3df
-  > youtube: @0x3dff
-  > storygraph: 0x3df
   ````
