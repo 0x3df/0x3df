@@ -1,7 +1,7 @@
   ````bash
   > help --info
-  > programmer focused on computer graphics and game dev.
-  > currently building 2D games.
+  > programmer focused on health and wellness
+  > currently building software that helps people
   > former computer science student at t20 uni
   ````
 
