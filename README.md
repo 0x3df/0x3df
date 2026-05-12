@@ -1,6 +1,6 @@
   ````bash
   > help --info
-  > programmer focused on health and wellness
+  > programmer focused on security and ai safety
   > currently building software that helps people
   > former computer science student at t20 uni
   ````
