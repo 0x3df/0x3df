@@ -1,7 +1,7 @@
   ````bash
   > help --info
-  > programmer focused on security and ai safety
-  > currently building software that helps people
+  > programmer focused on security and malware
+  > currently building tooling that helps people break things
   > former computer science student at t20 uni
   ````
 
