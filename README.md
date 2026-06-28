@@ -2,7 +2,6 @@
   > help --info
   > programmer focused on security and malware
   > currently building tooling that helps people break things
-  > former computer science student at t20 uni
   ````
 
   ````bash
