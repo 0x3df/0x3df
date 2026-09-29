@@ -1,6 +1,6 @@
   ````bash
   > help --info
-  > programmer focused on ai security & windows exploitation
+  > programmer focused on ai security & red teaming
   > currently building tooling that helps people break things
   ````
 
