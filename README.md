@@ -1,7 +1,6 @@
   ````bash
   > help --info
-  > programmer focused on maldev & red teaming
-  > currently building tooling that helps people break things
+  > currently writing crowdstrike-friendly shellcode
   ````
 
   ````bash
